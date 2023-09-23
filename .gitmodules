@@ -1,3 +1,6 @@
 [submodule "RibbonEureka"]
 	path = RibbonEureka
 	url = https://github.com/SaptarshiP/RibbonEureka.git
+[submodule "RibbonCode"]
+	path = RibbonCode
+	url = https://github.com/SaptarshiP/RibbonCode.git
