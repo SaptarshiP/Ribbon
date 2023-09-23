@@ -4,3 +4,6 @@
 [submodule "RibbonCode"]
 	path = RibbonCode
 	url = https://github.com/SaptarshiP/RibbonCode.git
+[submodule "RibbonClientService"]
+	path = RibbonClientService
+	url = https://github.com/SaptarshiP/RibbonClientService.git
